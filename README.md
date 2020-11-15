@@ -61,6 +61,6 @@ The analysis of Rate monotonic scheduling assumes few properties that every proc
 1. It is very difficult to support aperiodic and sporadic tasks under RMA.
 2. RMA is not optimal when tasks period and deadline differ.
 
-*sumber: https://www.geeksforgeeks.org/rate-monotonic-scheduling/* - automatic!
+*sumber: https://www.geeksforgeeks.org/rate-monotonic-scheduling/
 
 [Google Slides Penjelasan](https://ipb.link/projek-so-kel7)
