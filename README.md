@@ -15,4 +15,4 @@ Rate monotonic scheduling is a priority algorithm that belongs to the static pri
 
 ![alt text](https://github.com/fahrury-rdd27/SO-PROJEK/blob/master/formula7.png)
 
-ipb.link/projek-so-kel7
+[Google Slides Penjelasan] (ipb.link/projek-so-kel7)
