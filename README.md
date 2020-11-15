@@ -1,5 +1,5 @@
 # OPERATION SYSTEM PROJECT
-
+[Google Slides Penjelasan](https://ipb.link/projek-so-kel7)
 ## Kelompok 7: Rate Monotonic Algorithm
 
 | NAMA | NIM |
@@ -62,5 +62,3 @@ The analysis of Rate monotonic scheduling assumes few properties that every proc
 2. RMA is not optimal when tasks period and deadline differ.
 
 *sumber: https://www.geeksforgeeks.org/rate-monotonic-scheduling/
-
-[Google Slides Penjelasan](https://ipb.link/projek-so-kel7)
