@@ -28,13 +28,13 @@ U = 3/20 + 2/5 + 2/10 = 0.75
 It is less than 1 or 100% utilization. The combined utilization of three processes is less than the threshold of these processes that means the above set of processes are schedulable and thus satisfies the above equation of the algorithm.
 
 
-### 1. Waktu Penjadwalan
+#### 1. Waktu Penjadwalan
 For calculating the Scheduling time of algorithm we have to take the LCM of the Time period of all the processes. LCM ( 20, 5, 10 ) of the above example is 20. Thus we can schedule it by 20 time units.
 
-### 2. Prioritas
+#### 2. Prioritas
 As discussed above, the priority will be the highest for the process which has the least running time period. Thus P2 will have the highest priority, after that P3 and lastly P1.
 
-### 3. Alur Kerja
+#### 3. Alur Kerja
 ![alt text](https://github.com/fahrury-rdd27/SO-PROJEK/blob/master/Running-time-of-the-processes1.png)
 Above figure says that, Process P2 will execute two times for every 5 time units, Process P3 will execute two times for every 10 time units and Process P1 will execute three times in 20 time units. This has to be kept in mind for understanding the entire execution of the algorithm below.
 
