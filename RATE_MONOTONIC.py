@@ -95,3 +95,6 @@ if(u<1):
         tasktable(task,n,lcm)
 else:
     print('Scheduling not possible as '+str(u)+' >1')
+    
+#     DISCLAIMER:
+#     This code is an open source code from Meenakshi Saji
